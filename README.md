@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on FarmaApp C# + SQL Server
 - 🌱 I’m currently learning .Net and .Net Core.
-- 👨‍💻 Fav tech: C#, VB, JS.
+- 👨‍💻 Fav tech: C#, VB, JS, KT.
 <!--
 **BrunoMazzocchi/BrunoMazzocchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
