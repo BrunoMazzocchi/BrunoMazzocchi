@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on FarmaApp C# + SQL Server
+- 🔭 I’m currently working on Accounting system with JSP and bootsrap. 
 - 🌱 I’m currently learning .Net and .Net Core.
 - 👨‍💻 Fav tech: C#, VB, JS, KT.
 <!--
