@@ -2,28 +2,30 @@
 <h1 align="center">Hi 👋, I'm Bruno Mazzocchi</h1>
 <h3 align="center">System engineer student:)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunomazzocchi&label=Profile%20views&color=0e75b6&style=flat" alt="brunomazzocchi" /> </p>
-
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=brunomazzocchi" alt="brunomazzocchi" /> </p>
-
-https://github-readme-stats.vercel.app/api?username={BrunoMazzocchi}
-
+<h5 align="left" style="margin:10px;">
+  
 - 🔭 I’m currently working on [UCASH Accounting software](https://github.com/ISW-IAW/UCASH)
-
 - 🌱 I’m currently learning **Spring and Kotlin**
-
 - 👨‍💻 All of my projects are available at [https://github.com/BrunoMazzocchi](https://github.com/BrunoMazzocchi)
-
 - 📫 How to reach me **bemazzocchi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+  </h5>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunomazzocchi&show_icons=true&locale=en&layout=compact" alt="brunomazzocchi" /></p>
+<p  align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brunomazzocchi" alt="brunomazzocchi" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunomazzocchi&" alt="brunomazzocchi" /></p>
+
+<h3 align="center"> Languages and Tools:</h3>
+
+<h1 align="center">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+ <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+ <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+ <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  
+  </h1>
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunomazzocchi&label=Profile%20views&color=0e75b6&style=flat" alt="brunomazzocchi" /> </p>
+
