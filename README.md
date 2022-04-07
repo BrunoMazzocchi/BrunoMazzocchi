@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunomazzocchi&label=Profile%20views&color=0e75b6&style=flat" alt="brunomazzocchi" /> </p>
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username={BrunoMazzocchi}" alt="brunomazzocchi" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=brunomazzocchi" alt="brunomazzocchi" /> </p>
 
 https://github-readme-stats.vercel.app/api?username={BrunoMazzocchi}
 
