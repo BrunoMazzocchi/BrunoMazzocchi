@@ -4,7 +4,7 @@
 
 <h5 align="left" style="margin:10px;">
   
-- 🔭 I’m currently working on [UCASH Accounting software](https://github.com/ISW-IAW/UCASH)
+- 🔭 I’m currently working on [UCASH Accounting software](https://github.com/ISW-IAW/UCASH) and [Halo Api Mobile](https://github.com/BrunoMazzocchi/HaloApiMobile)
 - 🌱 I’m currently learning **Spring and Kotlin**
 - 👨‍💻 All of my projects are available at [https://github.com/BrunoMazzocchi](https://github.com/BrunoMazzocchi)
 - 📫 How to reach me **bemazzocchi@gmail.com**
