@@ -4,8 +4,8 @@
 
 <h5 align="left" style="margin:10px;">
   
-- 🔭 I’m currently working on [UCASH Accounting software](https://github.com/ISW-IAW/UCASH) and [Halo Api Mobile](https://github.com/BrunoMazzocchi/HaloApiMobile)
-- 🌱 I’m currently learning **Spring and Python**
+- 🔭 I’m currently working on [UCASH Accounting software](https://github.com/ISW-IAW/UCASH).
+- 🌱 I’m currently learning **Spring and NodeJS**
 - 👨‍💻 All of my projects are available at [https://github.com/BrunoMazzocchi](https://github.com/BrunoMazzocchi)
 
 
@@ -13,8 +13,9 @@
   </h5>
 
 
-<p  align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brunomazzocchi" alt="brunomazzocchi" href="https://github-readme-stats.vercel.app/api?username=brunomazzocchi" /> </p>
+<p  align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brunomazzocchi" alt="brunomazzocchi" href="https://github-readme-stats.vercel.app/api?username=brunomazzocchi" /> 
 
+</p>
 
 <h3 align="center"> Languages and Tools:</h3>
 
@@ -25,8 +26,11 @@
  <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  
+ 
   </h1>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunomazzocchi&label=Profile%20views&color=0e75b6&style=flat" alt="brunomazzocchi" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=brunomazzocchi&label=Profile%20views&color=0e75b6&style=flat" alt="brunomazzocchi" /> 
+<img src="https://www.codewars.com/users/BrunoMazzocchi/badges/micro" />
+</p>
 
