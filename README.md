@@ -5,7 +5,7 @@
 <h5 align="left" style="margin:10px;">
   
 - 🔭 I’m currently working on [UCASH Accounting software](https://github.com/ISW-IAW/UCASH).
-- 🌱 I’m currently learning **Spring and NodeJS**
+- 🌱 I’m currently learning **Spring and Fluuter**
 - 👨‍💻 All of my projects are available at [https://github.com/BrunoMazzocchi](https://github.com/BrunoMazzocchi)
 
 
