@@ -9,7 +9,7 @@ Systems engineering student learning about software development, software archit
 
 
 ![Bruno Mazzocchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomazzocchi&show_icons=true&theme=merko)
-![Bruno Mazzocchi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=brunomazzocchi&theme=merko)
+![Bruno Mazzocchi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=brunomazzocchi&theme=merko&layout=compact)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=brunomazzocchi&theme=merko&hide_border=false)
 
 
