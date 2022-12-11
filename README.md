@@ -7,10 +7,13 @@ Systems engineering student learning about software development, software archit
 </h5>
 
 
+<h1 align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=brunomazzocchi&show_icons=true&theme=merko" width="400" height="250"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunomazzocchi&theme=merko&layout=compact" width="400" height="250"/>
+</h1>
 
-![Bruno Mazzocchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomazzocchi&show_icons=true&theme=merko)
-![Bruno Mazzocchi's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=brunomazzocchi&theme=merko&layout=compact)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=brunomazzocchi&theme=merko&hide_border=false)
+
+
 
 
 
