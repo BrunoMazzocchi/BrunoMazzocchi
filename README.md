@@ -8,14 +8,16 @@ Systems engineering student learning about software development, software archit
 
 
 <h1 align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=brunomazzocchi&show_icons=true&theme=merko" width="400" height="250"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunomazzocchi&theme=merko&layout=compact" width="400" height="250"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=brunomazzocchi&show_icons=true&theme=merko" width="300" height="250"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@brunomazzocchi&theme=merko" width="300" height="250"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunomazzocchi&theme=merko&layout=compact" width="300" height="250"/>
+
 </h1>
 
+<h1 align="center">
 
-
-
-
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=brunomazzocchi&theme=merko&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+</h1>
 
 <h3 align="center"> Languages and Tools:</h3>
 
@@ -31,6 +33,7 @@ Systems engineering student learning about software development, software archit
 
 </h1>
  
+
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=brunomazzocchi&label=Profile%20views&color=0e75b6&style=flat" alt="brunomazzocchi" /> 
 <img src="https://www.codewars.com/users/BrunoMazzocchi/badges/micro" />
