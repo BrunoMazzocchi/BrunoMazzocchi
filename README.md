@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Bruno Mazzocchi</h1>
-<h3 align="center">System engineer student:)</h3>
+<h2 align="center">System engineer student:)</h2>
 
-<h5 align="left" style="margin:10px;">
+<h3 align="left" style="margin:10px;">
 Systems engineering student learning about software development, software architecture and some fun stuff
-</h5>
+</h3>
 
 
 <h1 align="center">
