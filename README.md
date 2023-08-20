@@ -10,13 +10,13 @@ Systems engineering student learning about software development, software archit
 <h1 align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=brunomazzocchi&show_icons=true&theme=merko" width="400" height="250"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunomazzocchi&theme=merko&layout=compact" width="400" height="250"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@brunomazzocchi&theme=merko" width="100%" height="250"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@brunomazzocchi&theme=merko"  width="80%" />
 
 </h1>
 
 <h1 align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunomazzocchi&theme=github-compact" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunomazzocchi&theme=github-compact" width="80%"/>
 </h1>
 
 <h3 align="center"> Languages and Tools:</h3>
