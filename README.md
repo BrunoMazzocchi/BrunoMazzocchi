@@ -16,7 +16,7 @@ Systems engineering student learning about software development, software archit
 
 <h1 align="center">
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=brunomazzocchi&theme=merko&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brunomazzocchi&theme=github-compact" width="100%"/>
 </h1>
 
 <h3 align="center"> Languages and Tools:</h3>
